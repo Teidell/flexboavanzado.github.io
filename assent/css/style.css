@@ -1,0 +1,95 @@
+
+.foto{
+    width: 70px;
+    height: 70px;
+    border-radius: 70px;
+}
+
+.menus{
+    display: flex;
+    flex-direction: row;
+    container: 10px;
+border-style: solid;
+    border-color: gray;
+    border-width: 2px;
+}
+.menu{
+    flex-direction: row;
+    justify-content: flex-start;
+    padding-top: 15px;
+    padding-left: 40px;
+    border: 1px solid white;
+    display: flex;
+    
+    
+}
+
+.iconos {
+    color: gray;
+    font-size: 25px;
+    padding-top: 25px;
+        padding-left: 40px;
+        
+}
+
+.boton{
+    height: 100px;
+    width: 100px;
+       flex-direction: column;
+       padding-top: 25px;
+    padding-left: 40px;
+   
+}
+
+button{
+    background-color: rgb(208, 168, 216);
+    color: white;
+    padding: 6px;
+    height: 50px;
+    width: 300px;
+    font-size: 30px;
+    border: none;
+}
+.nombre{
+           font-size: 30px;
+        padding-top: 15px;
+            padding-left: 10px;
+           
+}
+.titulo{
+    
+    font-size: 18px;
+    color: gray;
+padding-left: 10px;
+
+    }
+
+.mensaje{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+ .hand{
+    width: 350px;
+    height: 250px;
+    align-items: center;
+    padding-left: 150px;
+    flex-direction: column;
+    margin-inline-start: 390px;
+ }
+
+.titulos2{
+    display: flex;
+    font-size: 15;
+    align-items: center;
+    flex-direction: column;
+    margin-inline-start: 350px;
+    
+}
+.contenedor{
+    display: flex;
+    border-style: solid;
+        border-color: gray;
+        border-width: 2px;
+   
+}
